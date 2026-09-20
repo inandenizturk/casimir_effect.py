@@ -1,3 +1,7 @@
+
+https://github.com/user-attachments/assets/c82b98bb-abad-4ee6-8c60-941772812745
+
+
 # 2D Dynamical Casimir Effect (DCE) Simulation via FDTD
 
 A high-performance numerical simulation of the **Dynamical Casimir Effect (DCE)** using a 2D Finite-Difference Time-Domain (FDTD) scalar wave solver in Python.
